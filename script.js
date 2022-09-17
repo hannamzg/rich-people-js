@@ -12,16 +12,6 @@ let json = [
       'https://specials-images.forbesimg.com/imageserve/59d502f931358e542c034e76/200x200.jpg?background=000000&cropX1=245&cropX2=2420&cropY1=636&cropY2=2813',
   },
   {
-    name: 'Warren Buffett',
-    id: '2',
-    worth: '$84B',
-    birth_year: '1931',
-    source: 'Berkshire Hathaway',
-    country: 'USA',
-    image:
-      'https://specials-images.forbesimg.com/imageserve/59d5055931358e542c034ead/200x200.jpg?background=000000&cropX1=46&cropX2=693&cropY1=159&cropY2=806',
-  },
-  {
     name: 'Mark Zuckerberg',
     id: "3",
     worth: '$71B',
@@ -29,7 +19,7 @@ let json = [
     source: 'Facebook',
     country: 'USA',
     image:
-      'https://specials-images.forbesimg.com/imageserve/59d5062131358e542c034eb7/200x200.jpg?background=000000&cropX1=419&cropX2=1409&cropY1=53&cropY2=1044',
+      'https://cdn.britannica.com/54/187354-050-BE0530AF/Mark-Zuckerberg.jpg',
   },
   {
     name: 'Larry Ellison',
@@ -39,7 +29,7 @@ let json = [
     source: 'Sun, Oracle',
     country: 'USA',
     image:
-      'https://specials-images.forbesimg.com/imageserve/59d5069b31358e542c034ec1/200x200.jpg?background=000000&cropX1=0&cropX2=2000&cropY1=227&cropY2=2228',
+      'https://cdn.britannica.com/43/199343-050-5A69C731/Larry-Ellison-2012.jpg',
   },
   {
     name: 'Michael Bloomberg',
@@ -49,7 +39,7 @@ let json = [
     source: 'Bloomberg',
     country: 'USA',
     image:
-      'https://specials-images.forbesimg.com/imageserve/58c1d278a7ea431f321add1f/200x200.jpg?background=000000&cropX1=0&cropX2=744&cropY1=40&cropY2=784',
+      'https://cdn.britannica.com/22/182322-050-58616D38/Michael-Bloomberg.jpg',
   },
 ]
 
